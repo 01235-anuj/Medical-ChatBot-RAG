@@ -1,6 +1,0 @@
-streamlit==1.36.0
-langchain==0.2.14
-langchain-community==0.2.12
-pypdf==4.2.0
-faiss-cpu==1.7.4
-huggingface-hub==0.23.4
