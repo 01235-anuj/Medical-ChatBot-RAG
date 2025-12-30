@@ -73,3 +73,33 @@ When a question is asked, only relevant sections are retrieved — reducing hall
 6️⃣ Retriever finds relevant chunks  
 7️⃣ Transformer generates answer using only the retrieved context  
 
+
+---
+
+## 🖥️ Application Features
+
+✔ Reads real medical documents  
+✔ Context-aware answers from PDF  
+✔ Reduces hallucination  
+✔ Lightweight Transformer (FLAN-T5)  
+✔ Fast search using FAISS  
+✔ Simple Streamlit interface  
+
+---
+
+## 📈 Example Output
+
+**Question:**
+
+> What is diabetes?
+
+**Answer:**
+
+> Diabetes is a condition where blood glucose remains high because the body cannot properly use insulin. It can be managed with diet, exercise, and medication.  
+>  
+> ⚠️ *Educational only — not medical advice.*
+
+---
+
+## 📁 Project Structure
+
