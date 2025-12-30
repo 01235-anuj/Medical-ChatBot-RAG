@@ -102,6 +102,12 @@ When a question is asked, only relevant sections are retrieved — reducing hall
 ---
 
 ## 📁 Project Structure
+Medical-ChatBot-RAG/
+├── app.py
+├── Medical_Book.pdf
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 
 ---
