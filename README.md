@@ -103,3 +103,12 @@ When a question is asked, only relevant sections are retrieved — reducing hall
 
 ## 📁 Project Structure
 
+
+---
+
+## ▶️ How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
