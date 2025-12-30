@@ -102,13 +102,14 @@ When a question is asked, only relevant sections are retrieved — reducing hall
 ---
 
 ## 📁 Project Structure
-Medical-ChatBot-RAG/
-├── app.py
-├── Medical_Book.pdf
-├── requirements.txt
-├── README.md
-└── .gitignore
 
+```text
+Medical-ChatBot-RAG/
+├── app.py                 # Main Streamlit application
+├── Medical_Book.pdf       # Knowledge source used by the chatbot
+├── requirements.txt       # Project dependencies
+├── README.md              # Project documentation
+└── .gitignore             # Files to ignore in Git
 
 ---
 
